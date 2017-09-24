@@ -12,10 +12,3 @@ theme = "ananke"
   facebook = "https://www.facebook.com/ingrid.prail/"
   github = "https://github.com/PrailNet"
   featured_image = "/images/hero.jpeg"
-
-  [[menu.main]]
-    name = "about hugo"
-    pre = "<i class='fa fa-heart'></i>"
-    weight = -110
-    identifier = "about"
-    url = "/about/"
