@@ -1,0 +1,21 @@
+baseURL = "https://prailnet.github.io/"
+languageCode = "en-us"
+title = "Prail.Net Worldwide Headquarters"
+theme = "ananke"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+[params]
+  description = "Warning: Content on this site is quite stale!"
+  facebook = "https://www.facebook.com/ingrid.prail/"
+  github = "https://github.com/PrailNet"
+  featured_image = "/images/hero.jpeg"
+
+  [[menu.main]]
+    name = "about hugo"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "about"
+    url = "/about/"
