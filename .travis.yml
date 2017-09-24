@@ -1,0 +1,22 @@
+
+# Install the apt prerequisites
+sudo: required
+addons:
+  apt:
+    packages:
+      - python-pygments
+install:
+  - rm -rf public || exit 0
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.23/hugo_0.23_Linux-32bit.deb
+  - sudo dpkg -i hugo_0.23_Linux-32bit.deb
+script:
+  - hugo
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: public
+  target_branch: master
+  github_token: $GITHUB_TOKEN
+  repo: PrailNet/prailnet.github.io
+  on:
+    branch: master
