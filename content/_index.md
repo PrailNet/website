@@ -1,11 +1,16 @@
 ---
 title: "Prail.Net Worldwide Headquarters"
 featured_image: "/images/hero.jpeg"
-description: "Warning: Content on this site is quite stale!"
+description: "The New Prail.Net"
 ---
-Warning: The above warning is also quite stale.
+This is the new Prail.Net!
 
-You can find more useful and current info on Facebook:
+You can find more info on Facebook:
 
-http://www.facebook.com/joelprail
-http://www.facebook.com/ingridprail
+[Joel on Facebook](http://www.facebook.com/joel.prail)
+
+[Ingrid on Facebook](http://www.facebook.com/ingrid.prail)
+
+[Ben on Facebook](https://www.facebook.com/ben.prail)
+
+[Noah on Facebook](https://www.facebook.com/nprail)

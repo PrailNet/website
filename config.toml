@@ -8,7 +8,7 @@ theme = "ananke"
   priority = 0.5
   filename = "sitemap.xml"
 [params]
-  description = "Warning: Content on this site is quite stale!"
+  description = "The New Prail.Net"
   facebook = "https://www.facebook.com/ingrid.prail/"
   github = "https://github.com/PrailNet"
   featured_image = "/images/hero.jpeg"
