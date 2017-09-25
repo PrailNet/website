@@ -1,6 +1,6 @@
 ---
 title: "Prail.Net Worldwide Headquarters"
-featured_image: "/images/hero.jpeg"
+featured_image: "/images/hero.jpg"
 description: "The New Prail.Net"
 ---
 This is the new Prail.Net!
