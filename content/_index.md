@@ -12,6 +12,8 @@ You can find more info on Facebook:
 
 [Ben on Facebook](https://www.facebook.com/ben.prail)
 
-[Noah on Facebook](https://www.facebook.com/nprail)
+[Noah's Website](https://www.noahprail.com)
+
+[Luke's Instagram](https://instagram.com/luke_prail)
 
 [Joel not on Facebook much](http://www.facebook.com/joel.prail)
